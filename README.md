@@ -11,6 +11,10 @@
 ✔ Quickly jump back to saved timestamps  
 ✔ Simple Chrome extension interface
 
+<img width="1917" height="134" alt="517848705-68ba6cb7-bba7-458b-891c-22b4f9d4e3cb-1" src="https://github.com/user-attachments/assets/1e14ba9f-e709-4be1-bd16-b4e7528e760c" />
+<img width="1920" height="128" alt="517848703-e8c04d35-13b5-4bf9-a08e-39bcaaf9cabf" src="https://github.com/user-attachments/assets/253f5da5-db55-414d-862d-0c34ad5b39a3" />
+
+
 ---
 
 ## 📦 Installation
